@@ -7,5 +7,5 @@ age = input("How old are you? ")
 # Ask user to input their location
 location = input("Where do you live? ")
 
-# output message using the user's name, age, and location
+# output message with the user's name, age, and location
 print("Hey {}, you are {} years old and live in {}.".format(name, age, location))
